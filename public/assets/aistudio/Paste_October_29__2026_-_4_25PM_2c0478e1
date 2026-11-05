@@ -1,0 +1,514 @@
+Build a complete, futuristic, interactive science website called SciVerse — The Ultimate Interactive Science Universe.
+
+PROJECT VISION:
+Create a visually stunning, educational, interactive science platform where people can explore how the universe works. Combine the feel of a futuristic laboratory, NASA-style space exploration centre, engineering simulator, chemistry laboratory, physics playground and science video game. The website should make science exciting by letting users interact with scientific concepts, experiment in safe virtual environments, explore simulations, change variables and immediately see what happens.
+
+The website must be a real, functioning product rather than just a static landing page. Implement working navigation, simulations, interactive controls, searchable science topics, quizzes, learning tools and responsive layouts wherever supported. Do not leave important buttons nonfunctional or fill the website with placeholder text.
+
+BRAND AND VISUAL IDENTITY:
+Use the name SciVerse. Create a memorable logo combining an atom, orbit and small star, with subtle motion. Use a premium futuristic visual style with deep navy and near-black backgrounds, electric cyan, bright blue, violet and small accents of orange for heat, combustion and energy. Use glowing outlines sparingly, glass-like panels, fine grid lines, scientific diagrams, cinematic space backgrounds, smooth animations and high-quality 3D-style illustrations. Use clear typography, large but readable headings, comfortable spacing and strong contrast. The result should feel sophisticated, immersive and professional, not cluttered or childish.
+
+Support a dark theme as the main experience and a light theme as an option. Use responsive layouts for desktop, tablets and mobile. Prioritise performance, accessible controls and reduced-motion preferences.
+
+HOMEPAGE:
+Create an impressive homepage with a large animated galaxy or scientific laboratory background, floating particles, orbiting planets and subtle molecular animations. Display the headline “Explore Everything. Understand Anything.” and supporting text explaining that users can discover science through interactive experiments and simulations.
+
+Include prominent buttons for “Enter the Lab”, “Explore the Universe” and “Start Experimenting”. Each button must lead to its proper working page or interactive experience.
+
+Add an interactive universe of science categories, displayed as attractive cards:
+1. Chemistry and Chemical Reactions
+2. Physics and Speed
+3. Water and Fluid Dynamics
+4. Wind and Weather
+5. Space and Astronomy
+6. Rockets and Spacecraft
+7. Combustion and Energy
+8. Forces, Motion and Gravity
+9. Electricity and Magnetism
+10. Atoms and Particle Physics
+11. Biology and the Human Body
+12. Earth Science and Volcanoes
+13. Engineering and Machines
+14. Sound, Light and Waves
+15. Nuclear Science and Fusion
+16. Robotics, AI and Future Technology
+
+Add a featured discovery area, a rotating science fact, interactive challenge of the day, recently explored topics, popular simulations and a search bar labelled “What do you want to discover today?”
+
+GLOBAL NAVIGATION:
+Create a clean navigation bar containing Home, Discover, Virtual Lab, Physics Lab, Space Explorer, Rocket Lab, Energy Lab, Science Challenges and My Learning. Group related subjects under Discover when necessary to avoid clutter. Provide an obvious search function and a consistent way to return home.
+
+THE INTERACTIVE CHEMISTRY LAB:
+Build a dedicated virtual chemistry laboratory where users can learn about elements, molecules, chemical reactions and how substances behave when combined.
+
+Include an interactive periodic table with all 118 elements. Each element should open a detailed panel containing its name, symbol, atomic number, relative atomic mass, group, period, electron configuration where supported, physical state at standard conditions, general properties, common uses, and relevant safety information. Distinguish naturally occurring elements from synthetic elements where appropriate.
+
+Allow users to explore atoms and molecules using animated diagrams. Visualise protons, neutrons and electrons, explain atomic structure, show electron shells, demonstrate ionic and covalent bonding, and let users rotate or inspect simplified molecular models. Clearly label simplified scientific visualisations.
+
+CHEMICAL MIXING SIMULATOR:
+Create a virtual chemical reaction workbench. Users should select substances from a searchable catalogue, place them into virtual beakers or reaction chambers, adjust permitted quantities and conditions, and press a clearly labelled “Mix in Virtual Lab” button.
+
+The simulator should show an animated, scientifically informed representation of what happens when substances are combined. Depending on the selected substances and the model, display:
+- Whether a reaction is expected under the specified conditions.
+- The difference between a chemical reaction and a physical mixture.
+- Reactants and products.
+- Balanced chemical equations when available.
+- Changes in colour, temperature, pH, state or appearance when supported by evidence.
+- Gas formation, precipitates, dissolving, crystallisation or other relevant observations.
+- Energy absorbed or released, including an explanation of endothermic and exothermic reactions.
+- The scientific explanation at particle and molecular levels.
+- Reaction conditions and important limitations.
+- Safety information, incompatibilities and hazards.
+- A clear explanation of which observations are simulated and which properties are calculated or experimentally established.
+
+Give users an expandable “What is happening at particle level?” section showing animated molecules before, during and after the reaction. Include a “Why did this happen?” explanation and a “Learn the science” button for deeper information.
+
+Start with a curated library of safe, well-documented educational examples, such as vinegar and bicarbonate of soda, dissolving salt in water, dissolving sugar in water, and the behaviour of water and ice. Demonstrate that some combinations react while others simply dissolve, mix or remain separate. Explain that not all combinations produce a reaction.
+
+Do not pretend to calculate unknown chemical reactions reliably. If a reaction is not supported by verified reference data, clearly explain that the result is unknown or not modelled. Do not invent products, equations, colours or reaction measurements.
+
+Include a virtual-only simulation warning. Do not provide instructions for dangerous chemical mixtures, toxic gas generation, explosives, incendiary mixtures or other hazardous reactions. Flag incompatible substances and block unsafe combinations in the simulator. Do not encourage users to reproduce virtual results at home. Clearly distinguish educational simulation from practical laboratory work.
+
+CHEMISTRY LEARNING MODULES:
+Include interactive lessons on acids and bases, pH, indicators, the periodic table, chemical bonds, ionic compounds, covalent compounds, balancing equations, conservation of mass, oxidation and reduction, corrosion, catalysts, reaction rates, equilibrium, solutions, solubility, concentration, crystallisation, polymers, metals, non-metals, electrochemistry and organic chemistry.
+
+Create a virtual pH scale from 0 to 14, with an explanation of acidity, neutrality and alkalinity. Use documented example substances and clearly explain that actual pH depends on concentration and conditions.
+
+Allow learners to practise balancing chemical equations, identify reactants and products, build simple molecules and explore how temperature, concentration, surface area and catalysts may affect reaction rates. Use carefully labelled simplified models where real chemistry is too complex for a simple simulation.
+
+THE PHYSICS AND SPEED LAB:
+Create an interactive physics laboratory centred on motion, speed, acceleration, forces, momentum, energy and collisions.
+
+Build a working speed simulator with a track, movable objects, cars, bicycles, spacecraft and other selectable objects. Let users change the distance travelled, elapsed time, mass, velocity and acceleration where appropriate. Show animated movement alongside numerical measurements and live graphs.
+
+Include:
+- Speed = distance ÷ time.
+- Velocity and the difference between speed and velocity.
+- Average and instantaneous speed.
+- Acceleration and deceleration.
+- Distance-time graphs.
+- Velocity-time graphs.
+- Acceleration-time graphs.
+- Newton’s three laws of motion.
+- Forces, friction, air resistance and drag.
+- Momentum and collisions.
+- Kinetic and potential energy.
+- Work, power and mechanical efficiency.
+- Terminal velocity and falling objects.
+- Circular motion and centripetal acceleration.
+- Relative motion and reference frames.
+
+Let users compare the speed of a walking person, a bicycle, a car, a high-speed train, a jet aircraft, a rocket and light. Keep the units clear and allow conversion between metres per second, kilometres per hour and miles per hour. Use scientifically sensible values and explain when figures are approximate.
+
+Add a custom experiment mode where users change variables and observe how the outcome changes. Provide a reset button, pause and resume controls, adjustable simulation speed and a step-by-step explanation.
+
+THE WATER AND FLUID DYNAMICS LAB:
+Create a visually engaging laboratory dedicated to water, fluids, liquids, pressure, waves, flow and buoyancy.
+
+Include interactive simulations for:
+- The water cycle, from evaporation to condensation and precipitation.
+- Ice melting, water freezing and evaporation.
+- Water density and temperature.
+- Floating and sinking objects.
+- Archimedes’ principle and buoyancy.
+- Water pressure at different depths.
+- Communicating vessels.
+- Surface tension and capillary action.
+- Waves travelling across water.
+- Laminar and turbulent flow.
+- Pipes, pumps and fluid resistance.
+- Bernoulli’s principle.
+- Waterfalls and gravitational potential energy.
+- Dams and hydroelectric power.
+- Tides and the influence of the Moon.
+- Ocean currents and heat transfer.
+- Flooding, water conservation and the global water supply.
+
+Create a virtual tank where users can alter water depth and insert objects with different densities. Show whether each object floats, sinks or reaches neutral buoyancy, explaining why. Include a fluid flow experiment where users modify the shape of a pipe and compare flow speeds and pressure using a simplified model.
+
+Show water molecules as animated particles and explain the unusual properties of water, including hydrogen bonding, its relatively high specific heat capacity and why ice is less dense than liquid water under ordinary conditions.
+
+THE WIND, WEATHER AND ATMOSPHERE LAB:
+Create an interactive weather and atmospheric science section. Use animated wind particles, air pressure maps, cloud formation and moving weather systems.
+
+Allow users to adjust temperature differences, pressure gradients and surface conditions in simplified models to observe how air moves.
+
+Include:
+- What wind is and why it forms.
+- Air pressure and pressure gradients.
+- Convection and heat transfer.
+- Sea breezes and land breezes.
+- Global circulation and jet streams.
+- Coriolis effects and rotating systems.
+- Clouds, humidity and condensation.
+- Rain, snow, hail and other precipitation.
+- Thunderstorms, lightning and atmospheric electricity.
+- Tornadoes and tropical cyclones.
+- Hurricanes and storm development.
+- Atmospheric layers and the ozone layer.
+- Greenhouse gases and the greenhouse effect.
+- Climate, weather and climate change.
+- Wind turbines and renewable energy.
+- The relationship between wind, drag and flight.
+
+Add an interactive wind tunnel where users select the shape of an object and change air speed. Display qualitative or appropriately calculated airflow, pressure and drag. Explain that computational fluid dynamics is complex and that any simplified airflow visualisation has limitations.
+
+THE SPACE EXPLORER:
+Build an immersive space exploration section with a navigable Solar System. Users should select planets, dwarf planets, moons, asteroids, comets and other celestial objects to learn about them.
+
+Create attractive animated 3D-style celestial models where supported, with selectable camera views and optional labels.
+
+For each planet, include its size, mass, distance from the Sun, orbital period, rotation period, gravity, atmosphere, temperature range where well-supported, moons, surface characteristics and exploration history. Clearly distinguish scientific measurements from simplified illustrations.
+
+Include:
+- The Solar System and planetary orbits.
+- The Sun and stellar evolution.
+- The Moon and lunar phases.
+- Lunar and solar eclipses.
+- Gravity and orbital mechanics.
+- Comets, asteroids and meteoroids.
+- Exoplanets and the search for habitable worlds.
+- Stars, nebulae and stellar nurseries.
+- Black holes and event horizons.
+- Neutron stars and pulsars.
+- Galaxies and galaxy formation.
+- Dark matter and dark energy.
+- The Big Bang and the evolution of the universe.
+- Cosmic distances and the light-year.
+- Light, radiation and the electromagnetic spectrum.
+- Space telescopes and astronomical observation.
+- Satellites, GPS and Earth observation.
+- Space debris and planetary defence.
+- The search for extraterrestrial life and astrobiology.
+
+Include a zoomable scale-of-the-universe visualisation that starts with familiar objects and expands from microscopic scales to the Solar System, galaxy and observable universe. Make it clear that the scale and position of objects may be illustrative.
+
+Add a gravity playground that compares the weight of an object on Earth, the Moon, Mars, Jupiter and other celestial bodies. Distinguish mass from weight, explain gravitational acceleration and illustrate orbital motion.
+
+THE ROCKET AND SPACECRAFT ENGINEERING LAB:
+Create a dedicated rocket engineering environment where users can design, customise and virtually launch spacecraft.
+
+Let users choose a rocket configuration, adjust its mass, payload, fuel allocation and engine characteristics within an educational model, then run a simulated launch and examine the results.
+
+Display:
+- Thrust and weight.
+- Gravity and gravitational acceleration.
+- Aerodynamic drag.
+- Propellant mass and changing vehicle mass.
+- Thrust-to-weight ratio.
+- Acceleration during flight.
+- Velocity and altitude over time.
+- Atmospheric pressure changes.
+- Staging and the purpose of multistage vehicles.
+- Orbital insertion and orbital velocity.
+- Escape velocity.
+- Payload capacity and trade-offs.
+- Energy consumption and efficiency.
+- Re-entry heating and thermal protection.
+- Parachutes, landings and recovery systems.
+- Satellite deployment.
+- Reusable launch vehicles.
+- Robotic spacecraft and planetary landers.
+
+Build a rocket configuration screen with selectable visual components such as a nose cone, payload section, tanks, engine, fairing and stages. Give each component a description of its purpose. Use an illustrative model rather than claiming to provide real-world certified rocket designs.
+
+Create a launch sequence with a countdown, camera changes, engine ignition effects, sound that can be muted, atmospheric ascent, stage separation and a flight telemetry panel. Let users replay the launch in slow motion, pause it and inspect the data.
+
+Include a rocket comparison tool covering different propulsion concepts: chemical rockets, solid motors, liquid-propellant engines, ion propulsion, electric propulsion, nuclear thermal concepts and solar sails. Explain trade-offs involving thrust, efficiency, fuel type and mission duration.
+
+Do not give operational instructions for building dangerous propulsion systems, handling energetic materials or constructing real rockets. Keep the experience focused on physics, systems engineering, historical context and educational simulations.
+
+THE COMBUSTION AND ENERGY LAB:
+Create a dedicated energy laboratory explaining combustion, fuels, heat, flames, energy transfer and the science of engines.
+
+Include:
+- What combustion is.
+- The role of fuel, an oxidiser and ignition.
+- Exothermic reactions.
+- Activation energy.
+- Heat transfer by conduction, convection and radiation.
+- Complete and incomplete combustion.
+- Why different fuels release different amounts of energy.
+- Chemical energy, thermal energy and mechanical energy.
+- Internal combustion engines.
+- Turbines and jet engines.
+- Steam engines and heat engines.
+- Electricity generation.
+- Energy efficiency and waste heat.
+- Fossil fuels and their environmental effects.
+- Hydrogen as an energy carrier.
+- Batteries and energy storage.
+- Solar, wind, hydroelectric and geothermal power.
+- Nuclear fission and fusion at a conceptual level.
+- Fire safety, smoke, carbon monoxide and combustion hazards.
+
+Build an interactive combustion triangle showing the three requirements commonly taught for sustaining fire: fuel, heat and an oxidising agent. Let users explore how removing one requirement can stop combustion in a conceptual, non-operational simulation.
+
+Create a heat-transfer simulator with temperature graphs and particles moving at different speeds. Explain how energy moves between warmer and cooler regions and why temperature is not the same as total thermal energy.
+
+Add a virtual engine demonstration showing how chemical energy can become heat and then mechanical work. Compare the general operating principles of piston engines, turbines and electric motors.
+
+Ensure the section clearly distinguishes combustion from detonation, and from nuclear reactions. Do not provide dangerous ignition methods, homemade explosive formulas, incendiary instructions or procedures for generating fires. Focus on safe educational explanations and hazard awareness.
+
+ELECTRICITY AND MAGNETISM LAB:
+Add interactive experiments covering electric charges, current, voltage, resistance, circuits, batteries, magnets, coils, motors and generators.
+
+Allow users to assemble simple virtual circuits from a battery, wires, switches, resistors, bulbs and meters. The circuit must react to changes made by the user.
+
+Display current, voltage and resistance, and introduce Ohm’s law. Visualise electron flow using a simplified model without confusing electron drift with the propagation of electrical signals.
+
+Include series and parallel circuits, electromagnets, magnetic fields, induction, electric motors, generators, transformers and renewable electricity systems.
+
+Add an electrical safety area explaining why mains electricity and high-voltage equipment can be dangerous. Keep the build activities virtual and avoid instructions for unsafe electrical work.
+
+ATOMS, PARTICLES AND QUANTUM SCIENCE:
+Explain matter at progressively deeper scales: everyday objects, molecules, atoms, nuclei, protons, neutrons, electrons, quarks and other fundamental particles.
+
+Include interactive diagrams for atomic structure, isotopes, ions, the periodic table and radioactive decay. Explain how quantum mechanics describes physical systems at small scales, using approachable visualisations of probability, quantised energy levels, wave-particle duality and quantum tunnelling.
+
+Clearly identify where an animation or analogy simplifies the real science. Do not present classical planetary electron orbits as an accurate literal description of atomic structure.
+
+Include particle accelerators, antimatter, the Standard Model and open questions in modern physics. Explain the difference between established observations, scientific hypotheses and unresolved questions.
+
+BIOLOGY AND THE HUMAN BODY:
+Expand the website beyond physics and chemistry with a biology lab covering cells, DNA, genetics, evolution, ecosystems and human physiology.
+
+Include interactive cell diagrams, DNA models, food webs, natural selection simulations and visual explanations of how the respiratory, circulatory, nervous and digestive systems work.
+
+Explain photosynthesis, cellular respiration, microorganisms, immunity, biodiversity, climate impacts on ecosystems and the scientific method used in biological research.
+
+Use accessible educational language, medically responsible explanations and carefully sourced facts.
+
+EARTH SCIENCE AND NATURAL PHENOMENA:
+Add a dynamic Earth science section covering the structure of the planet, tectonic plates, earthquakes, volcanoes, mountain formation, erosion, minerals, rocks, the carbon cycle, soil, oceans and the atmosphere.
+
+Create a virtual tectonic plate demonstration where users observe how plates collide, separate and slide past one another. Include earthquake-wave visualisations and explain why their effects depend on magnitude, depth, distance, geology and building conditions.
+
+Add a volcano simulator using an educational model to show magma movement, pressure and the role of viscosity and gas content. Keep it scientifically grounded and clearly distinguish a simplified model from real volcanic forecasting.
+
+MACHINES, ROBOTICS AND ENGINEERING:
+Create a practical engineering playground for simple machines and mechanical systems.
+
+Include levers, pulleys, gears, inclined planes, wheels, axles, springs, hydraulic systems, pneumatic systems, robotic arms, sensors and control systems.
+
+Allow users to assemble simple mechanisms and observe how forces, mechanical advantage and motion change when components are rearranged.
+
+Add an engineering challenge mode in which users design a bridge, build a machine, optimise a wind turbine or design a robot to complete a task under specified constraints.
+
+Provide a clear explanation of the trade-offs in each challenge, including mass, strength, stability, energy consumption and efficiency.
+
+SOUND, LIGHT AND WAVES:
+Create a wave laboratory covering sound waves, light waves, frequency, wavelength, amplitude, resonance, reflection, refraction, diffraction, interference and standing waves.
+
+Allow users to change frequency and amplitude and see an animated waveform react in real time. Include comparisons between sound travelling through different media and light travelling through materials.
+
+Explain why sound cannot propagate through a vacuum, how echoes work, how lenses form images, why the sky appears blue and how the electromagnetic spectrum extends from radio waves to gamma rays.
+
+Add a virtual optics table with mirrors, lenses, light sources and a detector. Provide simplified ray diagrams and explain their assumptions.
+
+INTERACTIVE SCIENCE SIMULATION SYSTEM:
+Create a shared simulation framework throughout the website. Simulations should support appropriate controls such as play, pause, reset, step forward, speed adjustment, variable sliders, dropdown selectors, numeric inputs and visible outputs.
+
+When a user changes a parameter, update the simulation where possible. Show graphs, measurements, units, a short explanation and relevant equations alongside the visualisation.
+
+Include an optional “Show equations” setting and a “Explain this like I am a beginner” button. Also provide a deeper technical explanation for advanced users.
+
+For suitable deterministic models, display the parameters and equations being used. Clearly label approximations, omitted physical effects and uncertainties. Do not claim that every simulation uses a full scientific solver.
+
+Where realistic 3D simulation is impractical, build excellent 2D or interactive schematic alternatives instead of creating fake controls or misleading animations.
+
+VIRTUAL LAB NOTEBOOK:
+Every experiment should have an optional lab notebook where users can record their question, hypothesis, variables, observations, data and conclusion.
+
+Include tables and graphs for experimental results, a clear distinction between independent, dependent and controlled variables, and the ability to repeat the same experiment with different settings.
+
+Allow users to save their own observations and export experiment notes as a printable report when the platform supports it. If accounts and persistent storage are available, provide a private saved-project area.
+
+SCIENCE CHALLENGES AND GAME MODES:
+Build an interactive science challenge section with short missions, puzzles and longer engineering challenges.
+
+Examples:
+- Match elements to their symbols.
+- Balance a chemical equation.
+- Predict whether a familiar substance dissolves in water.
+- Identify the products of a verified, supported introductory reaction.
+- Calculate the speed of a moving object.
+- Find the acceleration from a graph.
+- Predict whether an object floats or sinks.
+- Build a stable virtual bridge.
+- Guide a satellite into an orbit.
+- Design a virtual rocket to carry a payload.
+- Improve the efficiency of a wind turbine.
+- Identify the requirements of combustion.
+- Trace energy through a power station.
+- Classify stars and planets.
+- Discover which circuit will illuminate a bulb.
+- Explain why a ship floats.
+- Solve a problem using Newton's laws.
+
+Use points, progress indicators, optional achievements, difficulty levels and explanations after each answer. Reward correct reasoning and improvement rather than simply making science competitive.
+
+Provide three difficulty modes:
+Beginner — straightforward language, visual demonstrations and guided steps.
+Intermediate — formulas, unit conversions, scientific explanations and independent experimentation.
+Advanced — more technical equations, model assumptions, graphs, quantitative analysis and engineering trade-offs.
+
+Do not make incorrect answers embarrassing. Explain the reasoning and let users try again.
+
+SCIENCE KNOWLEDGE BASE:
+Build a structured, searchable library of science topics with short introductions, detailed explanations, important vocabulary, key equations, practical examples, diagrams, references and connections to other topics.
+
+Every article should include:
+- A clear title and summary.
+- A beginner-friendly explanation.
+- An optional deeper explanation.
+- Relevant diagrams or illustrations.
+- Equations with definitions of every variable and its units.
+- Real-world applications.
+- Common misconceptions.
+- A short knowledge check.
+- Related subjects.
+- Sources or further reading when appropriate.
+
+Include a searchable glossary of scientific terminology. Users should be able to search for a word such as “combustion”, “momentum”, “molecule”, “orbital velocity” or “pressure” and receive a clear definition, examples and related simulations.
+
+SCIENCE AI ASSISTANT:
+Add an optional built-in AI science tutor if an AI model can be connected to the website.
+
+The tutor should help users understand scientific concepts, interpret experiment data, explain equations, compare competing theories, generate practice questions and guide learners through problems step by step.
+
+Users should be able to select a subject and preferred explanation level before asking a question. The tutor should support follow-up questions and link answers to relevant articles and simulations inside the website.
+
+The tutor must prioritise scientific accuracy, state uncertainty honestly, distinguish established knowledge from speculation and avoid fabricating citations, research papers, equations or experimental results.
+
+For potentially hazardous chemical reactions, fires, explosives, dangerous electrical setups or unsafe propulsion activities, the tutor should give safe conceptual explanations rather than actionable harmful instructions.
+
+Do not present an AI assistant as connected or functional until the required model, credentials, backend and security measures have actually been implemented.
+
+SEARCH AND DISCOVERY:
+Create a fast global search that searches articles, elements, glossary entries, experiments, simulations, spacecraft, planets and challenges. Show relevant results with category labels and short descriptions.
+
+Include filters for subject, difficulty, content type and estimated learning time. Add a discovery page that helps users find new science topics and see connections between disciplines.
+
+LEARNING TRACKS:
+Create structured learning paths such as:
+1. Science Foundations.
+2. Chemistry from Atoms to Reactions.
+3. The Physics of Speed and Motion.
+4. Water, Weather and Fluid Dynamics.
+5. Electricity and Energy.
+6. Rocket Science and Spaceflight.
+7. Astronomy and Cosmology.
+8. Engineering and Robotics.
+9. Earth and Climate Science.
+10. Advanced Physics and Quantum Ideas.
+
+Each track should contain a logical sequence of lessons, interactive activities, practice questions, revision tools and a final project.
+
+MY LEARNING:
+Provide a learner dashboard with recently opened content, saved articles, completed lessons, challenge results and learning-path progress.
+
+If accounts are implemented, support saved projects and private notes securely. Clearly distinguish local progress from account-synchronised progress. Do not claim data has been saved persistently unless the appropriate storage is implemented.
+
+DESIGN OF SCIENCE PAGES:
+Each major topic should have a consistent layout:
+A visually distinctive introduction, a featured interactive simulation, an explanation of the science, key equations or principles, related experiments, a knowledge check and links to related subjects.
+
+Avoid presenting each page as a wall of text. Use a combination of diagrams, interactive visualisations, short sections, informative cards, graphs, tooltips and expandable explanations. Keep scientific detail available without overwhelming beginners.
+
+Add thoughtful micro-interactions, loading states, empty states, helpful error messages, keyboard-accessible controls and reduced-motion support. Ensure animations do not interfere with reading.
+
+VISUAL EFFECTS AND ASSETS:
+Use high-quality, scientifically appropriate illustrations of molecules, planetary systems, rockets, engines, atmospheric circulation, waves, fluids, atoms and machinery.
+
+Use CSS animations, SVG, Canvas or WebGL for interactions where appropriate. A 3D library such as Three.js may be used if the development environment supports it. Avoid heavy effects on mobile devices.
+
+Visual effects must help explain the science. For example, a temperature increase may be shown through particle motion, gravity through orbital paths, wind through airflow particles, and chemical reactions through molecular diagrams.
+
+Do not make scientific diagrams unnecessarily decorative at the expense of clarity. Clearly label schematic and not-to-scale illustrations.
+
+ACCESSIBILITY, PERFORMANCE AND MOBILE:
+Use semantic HTML, keyboard navigation, visible focus indicators, accessible form labels, readable typography and appropriate contrast. Do not rely on colour alone to explain results.
+
+Provide alternative text for informative images, transcripts for educational audio or video and accessible alternatives for interactive graphics.
+
+Use efficient asset loading, compress images, lazy-load appropriate media and prevent simulations from consuming unnecessary resources. Make touch controls large enough for mobile users. Provide fallback visualisations when 3D or advanced rendering is unavailable.
+
+TECHNICAL IMPLEMENTATION:
+Use the technology supported by the chosen website builder. If generating a custom application, use a component-based architecture, reusable UI elements, clear state management and well-organised modules for each science subject.
+
+Build working pages and genuine interactions rather than a collection of static mockups.
+
+Implement:
+- Reusable navigation and layout.
+- A central science-topic data structure.
+- Search and filters.
+- Interactive lesson components.
+- Reusable graph and simulation controls.
+- Unit-aware calculations.
+- Input validation and helpful error handling.
+- Loading, empty and error states.
+- Responsive styling.
+- Appropriate metadata and page titles.
+- Reliable navigation and direct page links.
+- Secure integration for any optional AI services.
+
+Keep private API keys on a secure server side. Do not expose secret keys inside frontend JavaScript. If accounts are added, use secure authentication and appropriate data-access rules.
+
+Do not create nonfunctional login forms, fake save buttons, invented live data feeds or simulated AI responses presented as real service integrations. Clearly identify features that require an external service.
+
+SCIENTIFIC ACCURACY AND TRUST:
+Use established scientific knowledge and dependable educational references. Prefer recognised scientific institutions, textbooks, academic resources and authoritative space, weather, chemistry and physics sources.
+
+For changing facts, use dated references and update information when reliable current sources are available. Explain uncertainty, measurement limitations and differences between idealised models and real-world behaviour.
+
+Do not invent exact reaction outcomes, chemical products, rocket performance, planetary statistics, experimental measurements or scientific consensus.
+
+Include a clear safety and educational-use policy. The virtual laboratory is for understanding science, not for replacing laboratory supervision, professional engineering or safety procedures.
+
+EXTRA FEATURES THAT WOULD MAKE THE WEBSITE SPECIAL:
+- A daily science discovery with a source.
+- A random science fact generator using verified facts.
+- An interactive periodic table search.
+- A scientific calculator with clearly labelled units.
+- A formula explorer that explains the meaning of each symbol.
+- A unit converter for speed, distance, time, mass, temperature, energy and pressure.
+- An interactive timeline of scientific discoveries.
+- A space mission timeline.
+- A scientific misconceptions library.
+- A “What would happen if?” conceptual science section.
+- A compare-two-things tool, such as Earth versus Mars gravity or different propulsion concepts.
+- A virtual experiment report generator.
+- Revision flashcards and quizzes.
+- A science glossary.
+- A visual scale explorer from atoms to galaxies.
+- An engineering design challenge.
+- A student-friendly science project planner.
+- A collection of safe, teacher-supervised practical activities with age guidance and safety notes.
+- A random topic discovery button.
+- A cross-subject map showing how chemistry, physics, biology, engineering and astronomy connect.
+
+For “What would happen if?” scenarios, state the assumptions and distinguish real physics from hypothetical settings. Avoid presenting impossible combinations of conditions as realistic predictions.
+
+FINAL QUALITY REQUIREMENTS:
+The website should feel like a complete, premium interactive science platform that people genuinely want to explore for hours. It should balance impressive presentation with accurate explanations, meaningful experimentation and useful educational content.
+
+Prioritise, in this order:
+1. A polished and functional homepage.
+2. Reliable global navigation and search.
+3. A genuinely interactive chemistry mixing simulator with safe, verified examples.
+4. A working physics and speed laboratory.
+5. Water, wind and fluid dynamics simulations.
+6. An immersive Solar System explorer.
+7. A functional virtual rocket engineering and launch simulator.
+8. A combustion and energy laboratory.
+9. Interactive electricity, biology, Earth science and engineering modules.
+10. Quizzes, learning tracks, a virtual lab notebook and optional AI tutoring.
+
+Test every major button, navigation item, selector, slider, form and simulation. Remove broken links, console errors and obvious layout issues. Ensure that each main section has meaningful content and at least one useful interaction where appropriate.
+
+If a complex feature cannot be fully implemented, create a clearly labelled, functional educational version instead of a fake advanced simulation.
+
+The finished result must be visually stunning, educationally valuable, scientifically responsible, accessible, responsive, fast and genuinely interactive.
+
+Make SciVerse feel like a place where someone can explore a chemical reaction, understand why an object accelerates, watch wind move around an obstacle, investigate the planets, design a virtual spacecraft and discover the fundamental laws connecting everything in the universe — all from one website.

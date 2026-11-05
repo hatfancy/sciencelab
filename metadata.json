@@ -1,0 +1,6 @@
+{
+  "name": "SciVerse — The Ultimate Interactive Science Universe",
+  "description": "A futuristic, interactive science platform combining virtual chemistry, physics speed simulator, space exploration, rocket engineering, fluid dynamics, and energy labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
